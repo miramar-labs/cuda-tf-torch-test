@@ -63,4 +63,4 @@ Example Output on success:
 	2021-02-16 22:39:26.177926: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1862] Adding visible gpu devices: 0
 	Tensorflow - Num GPUs Available:  1
 	PyTorch - Num GPUs Available:  1
-# cuda-tf-torch-test
+
